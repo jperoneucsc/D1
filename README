@@ -1,0 +1,12 @@
+Example of publishing a slideshow cinematic based on Phaser
+
+Key requirements for this assignment:
+
+3+ scenes: Studio introduction scene, body scene 1, 2, 3, and the 'outro' or into scene for the game
+2+ audio assets: Fish tank, dramatic, and eerie Sound Effects from https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=6072">Pixabay
+2+ image assets: Pixel art lobsters and lobster scenes quickly drawn by me
+2+ geometric shapes: Circle and Square in end scene
+1+ logotype: The title of the game in the last scene
+1+ multi-line text: The 'options' to play the game in the last scene
+1+ fading animation: The scenes fade into eachother
+1+ object motion animation: Moving lobster sprites in the last scene
